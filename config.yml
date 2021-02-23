@@ -7,4 +7,4 @@ account-blacklist:
 - "999999999999" # production
 
 accounts:
-  "<accNum>": {} # aws-nuke-example
+  <accNum>: {} # aws-nuke-example
